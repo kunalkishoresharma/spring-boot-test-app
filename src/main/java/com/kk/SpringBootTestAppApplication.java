@@ -8,6 +8,7 @@ public class SpringBootTestAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootTestAppApplication.class, args);
+		int i = 10;
 	}
 
 }
